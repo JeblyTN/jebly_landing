@@ -109,7 +109,7 @@ a {
 
 .section-header{position: absolute; top: 0; left: 0; right: 0;}
 
-.site-logo a{position: absolute;top: 0;left: 0;right: 0;margin: auto;max-width: 263px;z-index: 5;}
+.site-logo a{position: absolute;top: -210px;left: 0;right: 0;margin: auto;max-width: 600px;z-index: 5;}
 
 .header-right{padding-top: 15px;}
 .header-right ul.social-media li{list-style-type: none; display: inline-block; margin-left: 5px;}
@@ -1502,7 +1502,7 @@ footer .text-muted {
 
 @media (max-width: 650px) {
 
-.site-logo a{max-width: 120px;right: auto;}
+.site-logo a{max-width: 200px;right: auto;top: -85px;left: -50px;margin: 0;}
 .header-right {padding-top: 5px;}
 .section-footer .ft-app-link ul li {max-width: 130px;}
 }
